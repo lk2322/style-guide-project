@@ -65,3 +65,11 @@ nav:
       - Правила Markdown: format/markdown.md
       - Как писать об интерфейсе: format/interface.md
   - Документация разработчика: developers.md
+  - Глоссарий: glossary.md
+  - Шаблоны:
+      - Инструкция: doc-templates/how-to.md
+      - Метод API: doc-templates/api-method.md
+      - Заметки о выпуске: doc-templates/release-notes.md
+  - Примеры:
+      - Как добавить покупку облигации: examples/add-bond.md
+      - "POST /operations": examples/api-operations.md
