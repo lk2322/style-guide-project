@@ -1,0 +1,58 @@
+site_name: Руководство по стилю документации «Сальдо»
+site_description: Правила написания и оформления документации приложения «Сальдо» для учёта доходов, расходов и инвестиций
+site_author: Владзиевский Евгений
+site_url: https://lk2322.github.io/style-guide-project/
+repo_url: https://github.com/lk2322/style-guide-project
+repo_name: lk2322/style-guide-project
+edit_uri: edit/main/docs/
+copyright: Проект «Сальдо», 2026
+
+theme:
+  name: material
+  language: ru
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Тёмная тема
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Светлая тема
+  features:
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - search.highlight
+    - content.code.copy
+    - content.action.edit
+    - toc.follow
+
+plugins:
+  - search:
+      lang:
+        - ru
+        - en
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+  - pymdownx.keys
+
+nav:
+  - О руководстве: index.md
