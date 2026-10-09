@@ -60,3 +60,8 @@ nav:
       - Тон и стиль изложения: style/tone.md
       - Орфография и пунктуация: style/language.md
       - Числа, деньги и даты: style/numbers.md
+  - Оформление:
+      - Структура документа: format/structure.md
+      - Правила Markdown: format/markdown.md
+      - Как писать об интерфейсе: format/interface.md
+  - Документация разработчика: developers.md
