@@ -7,6 +7,8 @@
 
 Сайт: <https://lk2322.github.io/style-guide-project/>
 
+Отчёт по лабораторной работе: [`docs/report.md`](docs/report.md), на сайте — <https://lk2322.github.io/style-guide-project/report/>.
+
 ## Быстрый старт
 
 ```bash
