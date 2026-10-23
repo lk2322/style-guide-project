@@ -1,6 +1,6 @@
 site_name: Руководство по стилю документации «Сальдо»
 site_description: Правила написания и оформления документации приложения «Сальдо» для учёта доходов, расходов и инвестиций
-site_author: Владзиевский Евгений
+site_author: Владзиевский Евгений, Данилова Анастасия, Архангельская Елизавета
 site_url: https://lk2322.github.io/style-guide-project/
 repo_url: https://github.com/lk2322/style-guide-project
 repo_name: lk2322/style-guide-project
@@ -53,6 +53,10 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.superfences
   - pymdownx.keys
+
+# Отчёт по лабораторной работе собирается, но не попадает в меню: ссылка на него есть в README.
+not_in_nav: |
+  /report.md
 
 nav:
   - О руководстве: index.md

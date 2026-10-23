@@ -36,6 +36,8 @@ jobs:
       - run: pip install -r requirements.txt
       - name: check_style.py
         run: python scripts/check_style.py
+      - name: Тестовый текст с нарушениями
+        run: make lint-fixture
 
   build:
     name: Сборка MkDocs

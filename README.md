@@ -7,6 +7,8 @@
 
 Сайт: <https://lk2322.github.io/style-guide-project/>
 
+Отчёт по лабораторной работе: [`docs/report.md`](docs/report.md), на сайте — <https://lk2322.github.io/style-guide-project/report/>.
+
 ## Быстрый старт
 
 ```bash
@@ -44,6 +46,6 @@ scripts/terms.yml      словарь линтера
 
 Читайте [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## Автор
+## Авторы
 
-Владзиевский Евгений, НИУ ИТМО, 2026.
+Владзиевский Евгений, Данилова Анастасия, Архангельская Елизавета, НИУ ИТМО, 2026.
