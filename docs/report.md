@@ -224,8 +224,8 @@ docs/
 | 11.5. Пул-реквест | [#1](https://github.com/lk2322/style-guide-project/pull/1), CI пройден |
 | 11.6–11.7. Обмен ревью | Обменялись ревью внутри команды: [4 замечания к #1](https://github.com/lk2322/style-guide-project/pull/1#pullrequestreview-5595195459), [6 замечаний к #2](https://github.com/lk2322/style-guide-project/pull/2#pullrequestreview-5618416854) |
 | 11.8. Правки по замечаниям | В #1 — коммит `9fc7c05`, ответы в каждом треде. В #2 — правки этого отчёта по ревью |
-| 11.9. Слияние в `main` | В процессе |
-| 11.10. Автоматический деплой | В процессе |
+| 11.9. Слияние в `main` | После одобрения оба пул-реквеста слиты в `main`: [#1](https://github.com/lk2322/style-guide-project/pull/1) — коммит `43b394e`, [#2](https://github.com/lk2322/style-guide-project/pull/2) — коммит `34abc72` |
+| 11.10. Автоматический деплой | Workflow «Deploy» опубликовал сайт после каждого слияния, [запуск для #1](https://github.com/lk2322/style-guide-project/actions/runs/39976219918). Раздел открывается на сайте: [«Доступность текста»](https://lk2322.github.io/style-guide-project/style/accessibility/) |
 
 ## 12. Документирование процесса
 
